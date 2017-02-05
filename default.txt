@@ -1,0 +1,3 @@
+MySQL root password: fHAD4a8M3DTy  
+ftp user: default
+ftp password: wYqmQB3eJABo
